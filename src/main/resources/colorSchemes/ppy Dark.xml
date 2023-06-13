@@ -1,10 +1,11 @@
-<scheme name="ppy Dark" version="142" parent_scheme="Darcula">
+<scheme name="dqb Dark" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2023-06-11T14:45:19</property>
-    <property name="ide">Rider</property>
-    <property name="ideVersion">2023.1.2.0.0</property>
-    <property name="modified">2023-06-11T14:45:26</property>
+    <property name="created">2023-06-13T10:50:39</property>
+    <property name="ide">WebStorm</property>
+    <property name="ideVersion">2022.2.4.0.0</property>
+    <property name="modified">2023-06-13T10:50:46</property>
+    <property name="originalScheme">dqb Dark</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="JetBrains Mono" />
   <option name="CONSOLE_LIGATURES" value="true" />
@@ -12,6 +13,29 @@
   <colors>
     <option name="CARET_COLOR" value="dedede" />
     <option name="CARET_ROW_COLOR" value="2f2f3f" />
+    <option name="FILESTATUS_ADDED" value="c3e887" />
+    <option name="FILESTATUS_COPIED" value="85e89d" />
+    <option name="FILESTATUS_DELETED" value="f77669" />
+    <option name="FILESTATUS_HIJACKED" value="ffcb6b" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="959da5" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="dbedff" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="f97583" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="f97583" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="f97583" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="85e89d" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
+    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="c3e88d" />
+    <option name="FILESTATUS_MERGED" value="b392f0" />
+    <option name="FILESTATUS_MODIFIED" value="80cbc4" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
+    <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
+    <option name="FILESTATUS_SUPPRESSED" value="546e7a" />
+    <option name="FILESTATUS_SWITCHED" value="f77669" />
+    <option name="FILESTATUS_UNKNOWN" value="f77669" />
+    <option name="FILESTATUS_addedOutside" value="ffea7f" />
+    <option name="FILESTATUS_changelistConflict" value="f97583" />
+    <option name="FILESTATUS_modifiedOutside" value="b392f0" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="" />
     <option name="GUTTER_BACKGROUND" value="22222e" />
     <option name="INDENT_GUIDE" value="333344" />
@@ -205,8 +229,29 @@
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
+    <option name="HTML_ATTRIBUTE_NAME">
+      <value>
+        <option name="FOREGROUND" value="76a1ce" />
+      </value>
+    </option>
+    <option name="HTML_ATTRIBUTE_VALUE" baseAttributes="DEFAULT_STRING" />
     <option name="HTML_CODE">
       <value />
+    </option>
+    <option name="HTML_CUSTOM_TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="a5c261" />
+      </value>
+    </option>
+    <option name="HTML_TAG">
+      <value>
+        <option name="FOREGROUND" value="a5c261" />
+      </value>
+    </option>
+    <option name="HTML_TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="a5c261" />
+      </value>
     </option>
     <option name="HYPERLINK_ATTRIBUTES">
       <value>
@@ -262,6 +307,11 @@
         <option name="BACKGROUND" value="261d1f" />
       </value>
     </option>
+    <option name="JS.INSTANCE_MEMBER_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="98c379" />
+      </value>
+    </option>
     <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
       <value>
         <option name="FONT_TYPE" value="1" />
@@ -275,6 +325,31 @@
         <option name="BACKGROUND" value="564a56" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="NG.BANANA_BINDING_ATTR_NAME">
+      <value>
+        <option name="FOREGROUND" value="61afef" />
+      </value>
+    </option>
+    <option name="NG.EVENT_BINDING_ATTR_NAME">
+      <value>
+        <option name="FOREGROUND" value="61afef" />
+      </value>
+    </option>
+    <option name="NG.PROPERTY_BINDING_ATTR_NAME">
+      <value>
+        <option name="FOREGROUND" value="61afef" />
+      </value>
+    </option>
+    <option name="NG.REFERENCE_ATTR_NAME">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+      </value>
+    </option>
+    <option name="NG.TEMPLATE_BINDINGS_ATTR_NAME">
+      <value>
+        <option name="FOREGROUND" value="fb7385" />
       </value>
     </option>
     <option name="ReSharper.COGNITIVE_COMPLEXITY_HINT">
